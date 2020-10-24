@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarBinding", "CarBinding\CarBinding.csproj", "{A111AF5D-F8E8-473F-949C-B07324D6FAB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A111AF5D-F8E8-473F-949C-B07324D6FAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A111AF5D-F8E8-473F-949C-B07324D6FAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A111AF5D-F8E8-473F-949C-B07324D6FAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A111AF5D-F8E8-473F-949C-B07324D6FAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DD6801C-9D92-4E48-B24A-3E23E86C0BDE}
+	EndGlobalSection
+EndGlobal
